@@ -1,0 +1,34 @@
+2023-08-06 05:36:13.917072 - Initialized conversion of CBT619
+2023-08-06 05:36:14.179838 - Received CBT.V505.FILE619.PDS from FILE619.XMI 
+2023-08-06 05:36:14.182187 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:36:14.183133 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/$$$DOC
+2023-08-06 05:36:14.197689 - Found $DYNLPA.xmi (application/xmit) in CBT.V505.FILE619.PDS
+2023-08-06 05:36:14.204755   - Received RECFM=U data, stored XMIT file as CBT619/$DYNLPA.xmi
+2023-08-06 05:36:14.215855 - Found $DYNLPAO.xmi (application/xmit) in CBT.V505.FILE619.PDS
+2023-08-06 05:36:14.222651   - Received RECFM=U data, stored XMIT file as CBT619/$DYNLPAO.xmi
+2023-08-06 05:36:14.305864 - Found $SMPLIST.xmi (application/xmit) in CBT.V505.FILE619.PDS
+2023-08-06 05:36:14.309610   - Received to CBT619/SMP.OUTPUT
+2023-08-06 05:36:14.310902 - Found #DYPDMY.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/#DYPDMY
+2023-08-06 05:36:14.311929 - Found #DYP001.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/#DYP001
+2023-08-06 05:36:14.311942 - Found #DYP002.bin containing application/octet-stream, moved to PDS/#DYP002
+2023-08-06 05:36:14.314569 - Found #DYP003.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/#DYP003
+2023-08-06 05:36:14.315595 - Found #DYP004.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/#DYP004
+2023-08-06 05:36:14.316562 - Found #DYP005.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/#DYP005
+2023-08-06 05:36:14.317468 - Found @FILE619.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/@FILE619
+2023-08-06 05:36:14.318395 - Found ACCEPT.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/ACCEPT
+2023-08-06 05:36:14.319305 - Found DYNPROC.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/DYNPROC
+2023-08-06 05:36:14.320191 - Found IEBCOPYT.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/IEBCOPYT
+2023-08-06 05:36:14.321111 - Found IEFCVRWA.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/IEFCVRWA
+2023-08-06 05:36:14.322117 - Found IEFVPP.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/IEFVPP
+2023-08-06 05:36:14.323057 - Found IEFVPP$.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/IEFVPP$
+2023-08-06 05:36:14.323907 - Found JES2.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/JES2
+2023-08-06 05:36:14.324846 - Found SGIEF441.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/SGIEF441
+2023-08-06 05:36:14.325945 - Found STEP1.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP1
+2023-08-06 05:36:14.326892 - Found STEP1A.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP1A
+2023-08-06 05:36:14.326903 - Found STEP2.bin containing application/octet-stream, moved to PDS/STEP2
+2023-08-06 05:36:14.328652 - Found STEP3.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP3
+2023-08-06 05:36:14.329518 - Found STEP3A.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP3A
+2023-08-06 05:36:14.330390 - Found STEP4.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP4
+2023-08-06 05:36:14.331235 - Found STEP4A.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP4A
+2023-08-06 05:36:14.332064 - Found STEP5.txt (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP5
+2023-08-06 05:36:14.332896 - Found STEP5A.jcl (text/plain) in CBT.V505.FILE619.PDS, moved to PDS/STEP5A
