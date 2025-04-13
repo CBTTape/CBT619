@@ -1,0 +1,38 @@
+2025-04-13 21:14:58.409101 - Received CBT.V508.FILE619.PDS from FILE619.XMI 
+2025-04-13 21:14:58.410750 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:14:58.410836 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/$$$DOC
+2025-04-13 21:14:58.410958 - Found $DYNLPA.xmi (application/xmit) in CBT.V508.FILE619.PDS, moved to PDS/$DYNLPA.xmi
+2025-04-13 21:14:58.424986 - Received SBGOLOB.DYNPROC.LPALIB from $DYNLPA.xmi 
+2025-04-13 21:14:58.425478 - Found IEFNB903.bin (application/octet-stream) in SBGOLOB.DYNPROC.LPALIB, moved to $DYNLPA/IEFNB903
+2025-04-13 21:14:58.425606 - Found IEFVH1.bin (application/octet-stream) in SBGOLOB.DYNPROC.LPALIB, moved to $DYNLPA/IEFVH1
+2025-04-13 21:14:58.425904 - Found $DYNLPAO.xmi (application/xmit) in CBT.V508.FILE619.PDS, moved to PDS/$DYNLPAO.xmi
+2025-04-13 21:14:58.438193 - Received SBGOLOB.DYNPROC.OLDLPA from $DYNLPAO.xmi 
+2025-04-13 21:14:58.438622 - Found IEFNB903.bin (application/octet-stream) in SBGOLOB.DYNPROC.OLDLPA, moved to $DYNLPAO/IEFNB903
+2025-04-13 21:14:58.438716 - Found IEFVH1.bin (application/octet-stream) in SBGOLOB.DYNPROC.OLDLPA, moved to $DYNLPAO/IEFVH1
+2025-04-13 21:14:58.439233 - Found $SMPLIST.xmi (application/xmit) in CBT.V508.FILE619.PDS, moved to PDS/$SMPLIST.xmi
+2025-04-13 21:14:58.527510 - Received SBGOLOB.DYNPROC.SMP.OUTPUT from $SMPLIST.xmi 
+2025-04-13 21:14:58.527965 - Found SBGOLOB.DYNPROC.SMP.OUTPUT.txt (text/plain), moved to $SMPLIST/SBGOLOB.DYNPROC.SMP.OUTPUT
+2025-04-13 21:14:58.528175 - Found #DYPDMY.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/#DYPDMY
+2025-04-13 21:14:58.528260 - Found #DYP001.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/#DYP001
+2025-04-13 21:14:58.528343 - Found #DYP002.bin (application/octet-stream) in CBT.V508.FILE619.PDS, moved to PDS/#DYP002
+2025-04-13 21:14:58.528406 - Found #DYP003.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/#DYP003
+2025-04-13 21:14:58.528472 - Found #DYP004.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/#DYP004
+2025-04-13 21:14:58.528541 - Found #DYP005.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/#DYP005
+2025-04-13 21:14:58.528609 - Found @FILE619.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/@FILE619
+2025-04-13 21:14:58.528668 - Found ACCEPT.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/ACCEPT
+2025-04-13 21:14:58.528731 - Found DYNPROC.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/DYNPROC
+2025-04-13 21:14:58.528799 - Found IEBCOPYT.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/IEBCOPYT
+2025-04-13 21:14:58.528873 - Found IEFCVRWA.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/IEFCVRWA
+2025-04-13 21:14:58.529031 - Found IEFVPP.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/IEFVPP
+2025-04-13 21:14:58.529096 - Found IEFVPP$.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/IEFVPP$
+2025-04-13 21:14:58.529155 - Found JES2.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/JES2
+2025-04-13 21:14:58.529259 - Found SGIEF441.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/SGIEF441
+2025-04-13 21:14:58.529320 - Found STEP1.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP1
+2025-04-13 21:14:58.529378 - Found STEP1A.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP1A
+2025-04-13 21:14:58.529443 - Found STEP2.bin (application/octet-stream) in CBT.V508.FILE619.PDS, moved to PDS/STEP2
+2025-04-13 21:14:58.529503 - Found STEP3.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP3
+2025-04-13 21:14:58.529571 - Found STEP3A.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP3A
+2025-04-13 21:14:58.529637 - Found STEP4.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP4
+2025-04-13 21:14:58.529703 - Found STEP4A.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP4A
+2025-04-13 21:14:58.529762 - Found STEP5.txt (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP5
+2025-04-13 21:14:58.529820 - Found STEP5A.jcl (text/plain) in CBT.V508.FILE619.PDS, moved to PDS/STEP5A
